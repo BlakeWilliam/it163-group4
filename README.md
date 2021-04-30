@@ -1,12 +1,2 @@
-# IT163webauth3
-Repo for Blake Agrade's SCC IT163 Web Authoring 3 Assignments
-
-Quick Bio: I'm in a the Web Development (UX/UI subtrack) program at Seattle Central College.
-
-Some of my hobbies:
-  - Hiking
-  - Camping
-  - Foraging
-  - Cooking 
-  - Crafting Coacktails
-  - Playing Video Games
+# IT163 Web Auth 3 - Spring 2021
+Repo for Blake Agrade & Luann Webster (Group 4) Website
