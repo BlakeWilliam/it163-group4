@@ -1,0 +1,60 @@
+html, div {
+    font-family: 'halyard-display', 'halyard-micro', 'sans-serif';
+    background-color:#a8b3b7;
+}
+
+header {
+    text-align: center;
+}
+
+main, footer {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#timer {
+    padding: 5px;
+    font-size: small ;
+}
+.top-margin {
+    margin-top: 20px;
+}
+h1 {
+    color:#0d7707;
+}
+
+h2 {
+    color:#037998;
+}
+
+h1, h2, h3  {
+    font-family: 'halyard-micro';
+}
+
+p {
+    color: #FFFFFF;
+    
+}
+
+a {
+    color: #2a530e; 
+}
+
+a:hover {
+    color: #B2D61E;
+}
+
+button.dark-btnbg {
+    background-color: #a8b3b7!important;
+}
+
+.dark-btnbg, .light-btnbg {
+        border-radius: 8px;
+        padding: 5px;
+}
+
+.bg-light {
+    background-color: #FFFFFF!important;
+}
