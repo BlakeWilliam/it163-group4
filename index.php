@@ -49,5 +49,5 @@
 
   </main>
   <!-- END MAIN -->
-
+<!-- START FOOTER-->
   <?php include "includes/footer.php";?>
