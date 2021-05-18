@@ -1,7 +1,6 @@
 //@ts-check
   
 // 1 in 10 Chance JS Modal popup
-
  function checkWinner() {
    let randomInt = Math.floor(Math.random() * (10-0) +1);
    console.log(randomInt);

@@ -67,28 +67,11 @@
   <!-- START MAIN -->
   <main>
     <div class="container">
-      <h1>Testing alert.</h1>
-      <p>The index page contains a 1-in-10 chance that a user will receive an alert that s/he has won a prize. [Functionality]</p>
-    </div>
-    <div>
-      <button id="winnerBtn"></button>
-       <!-- The Modal -->
-      <div id="winnerModal" class="modal">
-        <!-- Modal Content -->
-        <div class="winner-content">
-          <div class="winner-header">
-            <span class="close">&times;</span>
-            <h2>WINNER!</h2>
-          </div>
-          <div class="winner-body">
-            <p>You've Won...</p>
-            <p>Lucky You </p>
-          </div>
-          <div class="winner-footer">
-            <h3>Enjoy</h3>
-          </div>
+      <span onload="winnerCheck()" class="winner">
+        <div>
+          <h2>WINNER</h2>
         </div>
-      </div>
+      </span>>
     </div>
     <!-- END CONTAINER -->
 
