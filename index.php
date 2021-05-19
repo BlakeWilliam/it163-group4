@@ -3,7 +3,7 @@
       <span onload="winnerCheck()" class="winner"></span>
 
       <!-- START SECTION 1 -->
-      <div class="row justify-content-center">
+      <div id="home_top" class="row justify-content-center">
         <div class="col-sm-4">
           <img src="images/pg1_img01.jpg" class="img-fluid top-margin" alt="Page 1, Image 1">
         </div>

@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
       <!-- START SECTION 1 -->
-      <div class="row justify-content-center">
+      <div id="page2_top" class="row justify-content-center">
         <div class="col-sm-4">
           <img src="images/pg2_img01.jpg" class="img-fluid" alt="">
         </div>
