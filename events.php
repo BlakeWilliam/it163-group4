@@ -6,7 +6,7 @@
         </div>
 
       <!-- START EVENT 1 -->
-      <div class="row justify-content-center">
+      <div id="groups" class="row justify-content-center">
         <div class="col-sm-4 justify-content-center">
           <p>DATE</p>
           <img src="images/events_01.jpg" class="img-fluid" alt="">
@@ -38,7 +38,7 @@
       <!-- END EVENT 2 -->
 
        <!-- START EVENT 3 -->
-       <div class="row justify-content-center">
+       <div id="upcoming" class="row justify-content-center">
         <div class="col-sm-4 justify-content-center">
           <p>DATE</p>
           <img src="images/events_03.jpg" class="img-fluid" alt="">
