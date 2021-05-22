@@ -1,6 +1,6 @@
 <?php include 'dev-config'?>
 <!doctype html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
   <!-- Required meta tags -->
@@ -42,31 +42,19 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="page2.php" id="navbarDropdownMenuLink" role="button"
-              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Page 2</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="page2.php#page2_top">Page 2 Top Section</a>
-              <a class="dropdown-item" href="#">Mid Section</a>
-              <a class="dropdown-item" href="#">Lower Section</a>
-            </div>
-          </li>
-          <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="events.php" id="navbarDropdownMenuLink" role="button"
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="#">Top Section</a>
-              <a class="dropdown-item" href="#">Mid Section</a>
-              <a class="dropdown-item" href="#">Lower Section</a>
+              <a class="dropdown-item" href="events.php#groups">Groups</a>
+              <a class="dropdown-item" href="events.php#upcoming">Upcoming Events</a>
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="staff.php" id="navbarDropdownMenuLink" role="button"
-              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff</a>
+            <a class="nav-link dropdown-toggle" href="about.php" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="#">Top Section</a>
-              <a class="dropdown-item" href="#">Mid Section</a>
-              <a class="dropdown-item" href="#">Lower Section</a>
+              <a class="dropdown-item" href="about.php#aboutus">About Us</a>
+              <a class="dropdown-item" href="about.php#team">Team Members</a>
             </div>
           </li>
             <button type='button' class='light-btnbg' id='normalmode'>Light Mode</button>
