@@ -55,6 +55,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="about.php#aboutus">About Us</a>
               <a class="dropdown-item" href="about.php#team">Team Members</a>
+              <a class="dropdown-item" href="about.php#volunteer">Volunteer</a>
             </div>
           </li>
             <button type='button' class='light-btnbg' id='normalmode'>Light Mode</button>
