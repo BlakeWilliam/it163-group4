@@ -9,22 +9,24 @@
       <!-- ROW 1 -->
       <div class="row justify-content-center">
         <div class="col-sm-4 justify-content-center">
-            <h2>Staff Bio A</h2>
-            <img src="images/staff_01.jpg" class="img-fluid" alt="">
-            <p>Donut pudding candy sugar plum. Liquorice candy halvah. Jujubes sesame snaps macaroon bonbon ice cream bear claw sesame snaps sweet cupcake. Gummi bears ice cream fruitcake lemon drops.</p>
-            <p>Contact <a href="url">Staff A</a></p>
+            <h2>Paskal Waller/h2>
+            <img src="images/staff_01.jpg" class="img-fluid" alt="Paskal Waller">
+            <p>Leads/orgnizes Retires on the Move hikes</p>
+            <p>Retirement doesn't alsways mean afternoon naps. Paskal is active in his Greenlake community and enjoys sharing his love of Seattle and the outdoors with people of all ages.</p>
+            <p>Contact Paskal<a href="url">Paskal</a></p>
         </div>
 
         <div class="col-sm-4 justify-content-center">
-            <h2>Staff Bio B</h2>
-            <img src="images/staff_02.jpg" class="img-fluid" alt="">
+            <h2>Alice Bellerose</h2>
+            <img src="images/staff_02.jpg" class="img-fluid" alt="Alice Bellrose">
+            <p>Leads and Orgnizes: Hike it Baby and Family Groups</p>
             <p>Oat cake cupcake wafer. Chocolate bar soufflé chocolate bar topping donut. Chupa chups candy macaroon soufflé chocolate cake sweet cake.</p>
-            <p>Contact <a href="url">Staff B</a></p>
+            <p>Contact <a href="url">Alice</a></p>
         </div>
 
         <div class="col-sm-4 justify-content-center">
-            <h2>Staff Bio C</h2>
-            <img src="images/staff_03.jpg" class="img-fluid" alt="">
+            <h2>Elli Oliver</h2>
+            <img src="images/staff_03.jpg" class="img-fluid" alt="Elli Oliver">
             <p>Brownie sweet roll brownie. Carrot cake cookie jujubes dragée fruitcake gummi bears. Chocolate bar fruitcake chocolate cake pastry marshmallow lollipop wafer fruitcake gummies. Chocolate wafer macaroon.</p>
             <p>Contact <a href="url">Staff C</a></p>
         </div>
