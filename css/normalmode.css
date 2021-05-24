@@ -1,5 +1,9 @@
-html, div {
+html {
     font-family: 'halyard-display', 'halyard-micro', 'sans-serif';
+    background-color:#FFFFFF;
+}
+
+div {
     background-color:#a8b3b7;
 }
 
@@ -7,11 +11,23 @@ header {
     text-align: center;
 }
 
-main, footer {
+main, footer, header {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+footer>div, nav {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;   
+}
+
+.justify-text {
+    text-align: justify;
+    margin-top: 20px;
 }
 
 #timer {
@@ -29,8 +45,12 @@ h2 {
     color:#037998;
 }
 
-h1, h2, h3  {
+h1, h2, h3, nav  {
     font-family: 'halyard-micro';
+}
+
+nav {
+    font-size: small;
 }
 
 p {
@@ -46,15 +66,13 @@ a:hover {
     color: #B2D61E;
 }
 
-button.dark-btnbg {
-    background-color: #a8b3b7!important;
+button {
+    background-color: #495255;
+    border-radius: 8px;
+    
 }
-
-.dark-btnbg, .light-btnbg {
-        border-radius: 8px;
-        padding: 5px;
-}
-
-.bg-light {
-    background-color: #FFFFFF!important;
+.header-img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
 }
