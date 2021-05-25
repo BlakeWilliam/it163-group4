@@ -21,11 +21,12 @@
 
 <body>
   <header>
+    <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
 
     <!-- START NAV -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.php"><img src="images/logo.jpg"></a>
+      <a class="navbar-brand" href="index.php">Menu</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -58,8 +59,7 @@
               <a class="dropdown-item" href="about.php#volunteer">Volunteer</a>
             </div>
           </li>
-            <button type='button' class='light-btnbg' id='normalmode'>Light Mode</button>
-            <button type='button' class="dark-btnbg" id='darkmode'>Dark Mode</button> 
+          <button onclick="toggleTheme()" id='theme'>Change Theme</button> 
         </div>
         </ul>
       </div>
