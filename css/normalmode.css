@@ -41,7 +41,7 @@ h1 {
     color:#0d7707;
 }
 
-h2 {
+h2, .staff-lead {
     color:#037998;
 }
 
@@ -78,7 +78,7 @@ button {
 }
 
 hr {
-    max-width: 75%;;
+    max-width: 75%;
 }
 
 .event-spacer {
@@ -123,3 +123,22 @@ a.middle:hover:before {
   .card {
       margin:  20px;
   }
+
+.staff-lead {
+    font-weight:900;
+}
+
+.org-lead {
+    font-weight: 800;
+    color: #3b3b3b;
+}
+
+.spacer-section {
+    margin-top: 125px;
+    margin-bottom: 125px;
+}
+
+form {
+    max-width: 500px;
+    padding-bottom: 40px;
+}
