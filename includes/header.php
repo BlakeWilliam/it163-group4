@@ -12,9 +12,9 @@
     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   
   <!-- Main CSS -->
+  <script src="https://use.fontawesome.com/42998fdb68.js"></script>
   <link rel="stylesheet" href="css/normalmode.css" id="theme">
-  <link rel="stylesheet" href="https://use.typekit.net/omb7zgd.css">
-
+  <script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous"></script>
 
   <title>Emerald City UHC</title>
 </head>
