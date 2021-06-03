@@ -1,103 +1,224 @@
 <?php include "includes/header.php";?>
-        <div class="row justify-content-center">
-            <div class="col ">
-                <h1>Upcoming Events</h1>
+<!-- START CALENDAR -->
+<div class="row">
+        <div class="col">
+          <div class="schedule">
+            <div>
+              <h1>Upcoming Hikes</h1>
             </div>
+          </div>
         </div>
+      </div>
 
-      <!-- START EVENT 1 -->
-      <div id="groups" class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>Friday June, 18th</p>
-          <img src="images/events_lakeunion.jpg" class="img-fluid" alt="Lake Union">
-        </div>
+      <div class="row">
+        <div class="col">
 
-        <div class="col-sm-8">
-          <h2>Singles: Sunset Hike & Pub</h2>
-          <p>Trail: Cheshiahud Lake Union</p>
-          <p>Distance: 6.4 miles</p>
-          <p>CALLING ALL SINGLES! Join us for a hike around the <a href="http://www.seattle.gov/parks/find/parks/cheshiahud-lake-union-loop">Lake Union Loop</a> followed by a drink at the <a href="https://flatstickpub.com/south-lake-union/">Flatstick Pub</a>.</p>
-          <p>Contact - Register</p>
+          <div class="calendar">
+            <div class="calendar-header">
+              <h2>June 2021</h2>  
+            </div>
+            <table>
+              <thead>
+                <tr>
+                  <th>SUN</th>
+                  <th>MON</th>
+                  <th>TUE</th>
+                  <th>WED</th>
+                  <th>THU</th>
+                  <th>FRI</th>
+                  <th>SAT</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><span>30</span></td>
+                  <td><span>31</span></td>
+                  <td><span>1</span></td>
+                  <td><span>2</span></td>
+                  <td><span>3</span></td>
+                  <td><span>4</span></td>
+                  <td><span>5</span></td>
+                </tr>
+                <tr>
+                  <td><span>6</span></td>
+                  <td><span>7</span></td>
+                  <td><span>8</span></td>
+                  <td><span>9</span></td>
+                  <td><span>10</span></td>
+                  <td><span>11</span></td>
+                  <td><span>12</span></td>
+                </tr>
+                <tr>
+                  <td><span>13</span></td>
+                  <td><span>14</span></td>
+                  <td><span>15</span></td>
+                  <td><span>16</span></td>
+                  <td><span>17</span></td>
+                  <td><span>18</span></td>
+                  <td><span>19</span></td>
+                </tr>
+                <tr>
+                  <td><span>20</span></td>
+                  <td>
+                    <span class="active"><p>21<br>Hike 1</p></span>
+                  </td>
+                    <td><span>22</span></td>
+                    <td><span>23</span></td>
+                    <td><span>24</span></td>
+                    <td><span>25</span></td>
+                    <td><span>26</span></td>
+                  </tr>
+                  <tr>
+                    <td><span>27</span></td>
+                    <td><span>28</span></td>
+                    <td><span>29</span></td>
+                    <td><span class="active"><p>30 <br>Hike 2</p></span></td>
+                    <td><span>1</span></td>
+                    <td><span>2</span></td>
+                    <td><span>3</span></td>
+                  </tr>
+                </tbody>
+                
+              </table>
+            </div>
+          </div>
         </div>
-      </div>
-      <!-- END EVENT 1 -->
-      <!-- START EVENT 2 -->
-      <div id="groups" class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>Monday June, 21st</p>
-          <img src="images/events_01.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-sm-8">
-          <h2>Singles: Summer Solstice</h2>
-          <p>Special Event Groupsing</p>
-          <p>Cortado coffee, sweet kopi-luwak medium java that saucer decaffeinated ristretto. Lungo spoon kopi-luwak dripper mug americano est roast froth to go. Aroma iced, cup iced chicory sit body.</p>
-          <p>Contact - Register</p>
-        </div>
-      </div>
-      <!-- END EVENT 2 -->
-      <!-- START EVENT 3 -->
-      <div class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>Sudnday June 20th</p>
-          <img src="images/events_02.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-sm-8">
-          <h2>Sunrise Hike and Coffee</h2>
-          <p>Special Event Grouping</p>
-          <p>Mug half and half, dripper, in galão crema organic galão sugar. Caramelization iced sugar aromatic, macchiato pumpkin spice seasonal shop mazagran extraction medium galão. Cup sit affogato caffeine eu, est, milk, as crema percolator mug plunger pot.</p>
-          <p>Contact - Register</p>
-        </div>
-      </div>
-      <!-- END EVENT 3 -->
-       <!-- START EVENT 4 -->
-       <div id="groups" class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>Friday June, 25th</p>
-          <img src="images/events_01.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-sm-8">
-          <h2>Singles: Sunset Hike & Pub</h2>
-          <p>Special Event Groupsing</p>
-          <p>Cortado coffee, sweet kopi-luwak medium java that saucer decaffeinated ristretto. Lungo spoon kopi-luwak dripper mug americano est roast froth to go. Aroma iced, cup iced chicory sit body.</p>
-          <p>Contact - Register</p>
-        </div>
-      </div>
-      <!-- END EVENT 4 -->
-       <!-- START EVENT 5 -->
-       <div id="upcoming" class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>DATE</p>
-          <img src="images/events_02.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-sm-8">
-          <h2>HIKE NAME 3</h2>
-          <p>Special Event Grouping</p>
-          <p>Single origin and wings lungo aroma plunger pot americano cup caramelization. Grounds decaffeinated, instant frappuccino, caramelization extra  pumpkin spice, seasonal plunger pot cup froth saucer. Siphon, caffeine id, shop medium grinder, extra  coffee instant grounds cinnamon crema. Sugar, trifecta, medium roast, grinder espresso decaffeinated id crema. Half and half trifecta so lungo saucer caffeine irish.</p>
-          <p>Contact - Register</p>
-        </div>
-      </div>
-      <!-- END EVENT 5 -->
-      <!-- START EVENT 6 -->
-      <div class="row justify-content-center">
-        <div class="col-sm-4 justify-content-center">
-          <p>DATE</p>
-          <img src="images/events_01.jpg" class="img-fluid" alt="">
-        </div>
+        <!-- END CALENDAR-->
+        <!-- START AGENDA -->
 
-        <div class="col-sm-8">
-          <h2>HIKE NAME 4</h2>
-          <p>Special Event Grouping</p>
-          <p>Galão, doppio caramelization as est spoon french press seasonal that variety acerbic. Coffee viennese at redeye froth java turkish flavour. Bar , dark, beans, espresso cream coffee blue mountain crema black frappuccino java. Est, latte turkish cream so black single shot. Sit, kopi-luwak redeye lungo sweet as kopi-luwak.</p>
-          <p>Contact - Register</p>
-        </div>
-      </div>
-      <!-- END EVENT 6 -->
+        <!-- HIKE 1 -->
+        <div class="row">
+          <div class="col-sm-2">
+            <div class="schedule-list time">
+              <span>June</span>
+              <span>21</span>
+            </div>
+          </div>
+          <div class="col-sm-2">
+            <h3>9 pm</h3>
+          </div>
 
+          <div id="hike1" class="col-sm-6 description">
+            <h3 class="description-header">Hike 1</h3>
+            <div class="description">
+              <p class="justify-text">Lorem Khaled Ipsum is a major key to success. Bless up. Wraith talk. Find peace, life is like a water fall, you’ve gotta flow. The key is to enjoy life, because they don’t want you to enjoy life. I promise you, they don’t want you to jetski, they don’t want you to smile. Cloth talk. They don’t want us to win. Hammock talk come soon. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch.</p>
+              <p class="contact">
+                <li class="contact"></li>
+                <a href="#"><img src="http://gravatar.com/avatar/8b1d44e3b2310823bd41d609003b70a9?s=80" alt="" />Abby</a>
+              </li>
+            </p>
+          </div>
+        </div> 
+      </div>
+      <hr>
+      <!-- HIKE 2 -->
+      <div class="row">
+        <div class="col-sm-2">
+          <div class="schedule-list time">
+            <span>June</span>
+            <span>21</span>
+          </div>
+        </div>
+        <div>
+          <h3 class="col-sm-2">9 am</h3>
+        </div>
+        
+        <div id="hike1" class="col-sm-8 description">
+          <h3 class="description-header">Hike 2</h3>
+          <div class="description">
+            <p class="justify-text">Look at the sunset, life is amazing, life is beautiful, life is what you make it. Let’s see what Chef Dee got that they don’t want us to eat. The key is to enjoy life, because they don’t want you to enjoy life. I promise you, they don’t want you to jetski, they don’t want you to smile. It’s important to use cocoa butter. It’s the key to more success, why not live smooth? Why live rough? They never said winning was easy. Some people can’t handle success, I can.</p>
+            <p class="contact">
+              <li class="contact"></li>
+              <a href="#"><img src="http://gravatar.com/avatar/8b1d44e3b2310823bd41d609003b70a9?s=80" alt="" />Abby</a>
+            </li>
+          </p>
+        </div>
+      </div> 
     </div>
-    <!-- END CONTAINER -->
 
-  </main>
+
+
+
+  </div>
+  <!-- END AGENDA and CONTAINER-->
+  <!-- START GROUPS Container -->
+  <div class="container">
+   <!-- START GROUPS ROW 1 -->
+   <div class="row ">
+    <div class="col">
+      <h1 id="groups">GROUPS</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col card-deck">
+      <div class="card">
+        <img class="card-img-top" src="images/gp_onthemove.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">On the Go</h5>
+          <p class="card-text">On the Go is geared for retiree's or those who enjoy hiking at a leisurely pace, we're in no rush. All of our hikes will have restrooms nearby either at a park or a friendly business. Typically we choose trails that have cafe's or resturants near the end for a drink or snack afterwards. Gives us a chance recap the day and maybe even a few 'fishing' stories.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Contact <a href"#>Paskal</a> for more information.</small>
+        </div>
+      </div>
+
+      <div class="card">
+        <img class="card-img-top" src="images/gp_family.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Family Hikers</h5>
+          <p class="card-text">So, cinnamon, id sit at sugar milk. That medium, roast, extra cup roast, extraction, dark sit cinnamon variety grinder. Qui coffee macchiato, aged and, qui steamed single origin dripper organic. Flavour trifecta beans caramelization aromatic coffee pumpkin spice blue mountain espresso black barista wings.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Contact <a href"#>Alice</a> for more information.</small>
+        </div>
+      </div>
+      <div class="card">
+        <img class="card-img-top" src="images/gp_lgbtq.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">LGBTQ</h5>
+          <p class="card-text">So, cinnamon, id sit at sugar milk. That medium, roast, extra cup roast, extraction, dark sit cinnamon variety grinder. Qui coffee macchiato, aged and, qui steamed single origin dripper organic. Flavour trifecta beans caramelization aromatic coffee pumpkin spice blue mountain espresso black barista wings.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Contact <a href="#">Elli</a>for more information.</small>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="row justify-content-center">
+    <div class="col-sm-8 card-deck">
+      <div class="card">
+        <img class="card-img-top" src="images/gp_singles.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">21 Plus</h5>
+          <p class="card-text">So, cinnamon, id sit at sugar milk. That medium, roast, extra cup roast, extraction, dark sit cinnamon variety grinder. Qui coffee macchiato, aged and, qui steamed single origin dripper organic. Flavour trifecta beans caramelization aromatic coffee pumpkin spice blue               mountain espresso black barista wings.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Contact <a href="#">Blake</a> for more information.</small>
+        </div>
+      </div>
+
+      <div class="card">
+        <img class="card-img-top" src="images/gp_pups.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Puppers</h5>
+          <p class="card-text">So, cinnamon, id sit at sugar milk. That medium, roast, extra cup roast, extraction, dark sit cinnamon variety grinder. Qui coffee macchiato, aged and, qui steamed single origin dripper organic. Flavour trifecta beans caramelization aromatic coffee pumpkin spice blue mountain espresso black barista wings.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Contact <a href="#">Abby</a>for more information.</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- END GROUP CONTAINER -->
+
+</main>
   <!-- END MAIN -->
 
-  <!-- START FOOTER-->
-  <?php include "includes/footer.php";?>
+    <?php include "includes/footer.php";?>
