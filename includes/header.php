@@ -1,6 +1,5 @@
 <?php include 'dev-config'?>
-<!doctype html>
-<html lang="en"> 
+<html lang="en">
 
 <head>
   <!-- Required meta tags -->
@@ -10,11 +9,16 @@
   <!-- Bootstrap Layout CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  
+
   <!-- Main CSS -->
-  <script src="https://use.fontawesome.com/42998fdb68.js"></script>
   <link rel="stylesheet" href="css/normalmode.css" id="theme">
-  <script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/darkmode.css" id="theme">
+  <!-- REMOVED script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous" -->
+  <!-- Added -->
+  <link rel="stylesheet" href="css/calendar.css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
 
   <title>Emerald City UHC</title>
 </head>
@@ -42,7 +46,7 @@
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="events.php#upcoming">Upcoming Events</a>
-              <a class="dropdown-item" href="events.php#groups">Groups</a>              
+              <a class="dropdown-item" href="events.php#groups">Groups</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -54,9 +58,9 @@
               <a class="dropdown-item" href="about.php#volunteer">Volunteer</a>
             </div>
           </li>
-          <button onclick="toggleTheme()" id='theme'>Change Theme</button> 
-        </div>
-        </ul>
+          <button onclick="toggleTheme()" id='theme'>Change Theme</button>
+      </div>
+      </ul>
       </div>
     </nav>
     <!-- END NAV -->
