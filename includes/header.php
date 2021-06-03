@@ -1,4 +1,3 @@
-<?php include 'dev-config'?>
 <html lang="en">
 
 <head>
