@@ -1,4 +1,3 @@
-<?php include 'dev-config'?>
 <!doctype html>
 <html lang="en"> 
 
@@ -33,21 +32,16 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="index.php" id="navbarDropdownMenuLink" role="button"
-              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="#home_top">Home Top Section</a>
-              <a class="dropdown-item" href="#">Mid Section</a>
-              <a class="dropdown-item" href="#">Lower Section</a>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="events.php" id="navbarDropdownMenuLink" role="button"
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="events.php#groups">Groups</a>
               <a class="dropdown-item" href="events.php#upcoming">Upcoming Events</a>
+              <a class="dropdown-item" href="events.php#groups">Groups</a>              
             </div>
           </li>
           <li class="nav-item dropdown">
