@@ -1,8 +1,8 @@
 <footer>
   <div class="container border-top">
     <div class="row">
-      <div class="col-md-6 justify-text">
-        <h2 class="footer-heading mt-5 justify-content-center">Contact Us</h2>
+      <div class="col-md-6 text-left">
+        <h2 class="footer-heading  justify-content-center mt-4">Contact Us</h2>
         <h3>Emerald City UHC</h3>
         <address>
           <p>1234 Abce Dr. 
@@ -12,26 +12,29 @@
           <a href="tel:+12061231234">206.123.1234</a>
         </address>
       </div>
-      <div class="col-md-6 justify-text">
-        <h2 class="footer-heading mt-5 justify-content-center">Subscribe</h2>
-        <form class="subscribe-form justify-text">
-          <div class="form-group d-flex justify-text" data-children-count="1">
-            <p>Put newslestter stuff here</p>
-          </div>
+      <div class="col-md-6 mt-4 text-left">
+        <h2 class="footer-heading justify-content-center">Subscribe</h2>
+        <form class="subscribe-form">
+          <div class=" d-flex" data-children-count="1">
+            <label for="subscribeNewsletterEmail">Subscribe to Our Newsletter</label>
+            <input type="email" class="form-control" id="subscribeNewsletterEmail" placeholder="Enter email">
+            
+            <button type="submit" class="btn btn-success middle">Subscribe</button>
+            </div>
         </form>
         <div>
-          <h2 class="footer-heading mt-5">Follow Us:</h2>
-          <ul class="ftco-footer-social p-0">
-            <li class="ftco-animate"> Twitter</li>
-            <li>Instagram</li>
-            <li>Facebook</li>
-            <li>Twitter</li>
+          <h2 class="footer-heading text-left">Follow Us</h2>
+          <ul id="footer-media" class="p-0 text-center">
+            <li><i class="fab fa-twitter-square size-media" style="color:#1da1f2;"></i></li>
+            <li><i class="fab fa-instagram-square size-media" style="color:#F56040;"></i></li>
+            <li><i class="fab fa-facebook-square size-media" style="color:#4267b2;"></i></li>
+            <li><i class="fab fa-meetup size-media" style="color:#e0393e;"></i></li>
           </ul>
         </div>
       </div>
     </div>
     <div class="row mt-5 pt-4 border-top">
-      <div class="col-md-6 justify-text">
+      <div class="col-md-6 justify-content-left">
         <p><small>&copy;
           <script>document.write(new Date().getFullYear())</script> by <a href="contactme.php" target="_blank">Dev Team
             4</a>, All Rights Reserved</small></p>
