@@ -25,6 +25,22 @@ footer>div, nav {
     margin-top: 20px;   
 }
 
+#footer-media {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#footer-media > li {
+    float: left;
+    width: 5em;
+    text-align: left;
+}
+.size-media {
+    font-size: 35px;
+}
+
 .justify-text {
     text-align: justify;
     margin-top: 20px;
@@ -141,4 +157,10 @@ a.middle:hover:before {
 form {
     max-width: 500px;
     padding-bottom: 40px;
+}
+
+.subscribe-form {
+    max-width: 500em;
+    padding-bottom: 5px;
+    padding: 0px 15px;
 }
