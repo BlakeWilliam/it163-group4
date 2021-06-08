@@ -172,20 +172,11 @@ td > span:active{
 	display: block;
 }
 
-
-/* ----- Events Pg ----- */
-.container {
-	padding: 0px;
-	margin: 0px;
-}
-
-
-
-
 /* ----- card-deck ----- */
 .card-deck {
 	margin-left: 0;
 }
+
 
 .row {
 	margin-right: 0px;
