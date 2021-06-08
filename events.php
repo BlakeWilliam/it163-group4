@@ -57,7 +57,7 @@
               </tr>
               <tr>
                 <td><span>20</span></td>
-                <td><span class="active"><p>21<br>Hike 1</p></span></td>
+                <td><span class="active">21<br>Hike 1</span></td>
                 <td><span>22</span></td>
                 <td><span>23</span></td>
                 <td><span>24</span></td>
@@ -68,7 +68,7 @@
                 <td><span>27</span></td>
                 <td><span>28</span></td>
                 <td><span>29</span></td>
-                <td><span class="active"><p>30 <br>Hike 3</p></span></td>
+                <td><span class="active">30 <br>Hike 3</span></td>
                 <td><span>1</span></td>
                 <td><span>2</span></td>
                 <td><span>3</span></td>
