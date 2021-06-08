@@ -1,4 +1,5 @@
-html {
+html,
+body{
     font-family: 'halyard-display', 'halyard-micro', 'sans-serif';
     background-color: #FFFFFF;
 }
@@ -68,7 +69,7 @@ h2,
 h1,
 h2,
 h3,
-nav {
+nav, p {
     font-family: 'halyard-micro';
 }
 
@@ -77,7 +78,7 @@ nav {
 }
 
 p {
-    color: #FFFFFF;
+    color: #303030;
 }
 
 a {
@@ -110,10 +111,6 @@ hr {
 
 .end-spacer {
     padding-bottom: 40px;
-}
-
-div.alt-colorblock-light {
-    background-color: #FFFFFF!important;
 }
 
 
@@ -153,8 +150,8 @@ a.middle:hover:before {
 }
 
 .org-lead {
-    font-weight: 800;
-    color: #3b3b3b;
+    font-weight: 700;
+    color: #574e4e;
 }
 
 .spacer-section {
@@ -177,20 +174,17 @@ form {
     max-width: 100%;
 }
 
-
-/*Start Block quote styling*/
-
-
-/* center the blockquote in the page */
-
-.blockquote-wrapper {
-    display: flex;
-    height: 50vh;
+.card-footer, .card-header {
+    background-color: #A8B3B7;
+    border-top: 0px;
 }
 
-
+/*Start Block quote styling*/
+/* center the blockquote in the page */
+.blockquote-wrapper {
+    display: flex;
+}
 /* Blockquote main style */
-
 .blockquote {
     position: relative;
     font-family: 'Montserrat', sans-serif;
@@ -198,21 +192,14 @@ form {
     color: #ffffff;
     padding: 30px 0;
     width: 100%;
-    max-width: 800px;
+    max-width: 900px;
     z-index: 1;
     margin: 80px auto;
     align-self: center;
     border-top: solid 1px;
     border-bottom: solid 1px;
 }
-
-.card-footer{
-    background-color: #A8B3B7;
-    border-top: 0px;
-}
-
 /* Blockquote header */
-
 .blockquote h1 {
     position: relative;
     color: #FFFFFF;
@@ -221,32 +208,23 @@ form {
     line-height: 1;
     margin: 0;
 }
-
-
 /* Blockquote right double quotes */
-
 .blockquote:after {
     position: absolute;
     content: "”";
-    color: rgba(255, 255, 255, 1);
+    color: #ffffff;
     font-size: 10rem;
     line-height: 0;
     bottom: -43px;
     right: 30px;
 }
-
-
 /* increase header size after 600px */
-
 @media all and (min-width: 600px) {
     .blockquote h1 {
         font-size: 40px;
     }
 }
-
-
 /* Blockquote subheader */
-
 .blockquote h4 {
     position: relative;
     color: #292a2b;
