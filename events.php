@@ -89,12 +89,11 @@
           <span>21</span>
         </div>
       </div>
-        <div class="col-sm-4 col-md-2 text-left">
-          <h3>9 am</h3>
-        </div>
-        <div id="hike1" class="col-sm-4 col-md-4 description text-left">
-          <h3 class="description-header">Hike 1</h3>
-        </div>
+      <div class="col-sm-4 col-md-2 text-left">
+        <h3>9 am</h3>
+      </div>
+      <div id="hike1" class="col-sm-4 col-md-4 description text-left">
+        <h3 class="description-header">Hike 1</h3>
       </div>
     </div>
 
@@ -134,7 +133,6 @@
         <div id="hike1" class="col-sm-4 col-md-4 description text-left">
           <h3 class="description-header">Hike 2</h3>
         </div>
-      </div>
     </div>
 
     <div class="row">
@@ -173,7 +171,7 @@
         <div id="hike1" class="col-sm-4 col-md-4 description text-left">
           <h3 class="description-header">Hike 3</h3>
         </div>
-      </div>
+
     </div>
 
     <div class="row">
