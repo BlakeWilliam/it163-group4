@@ -5,8 +5,8 @@ div, ul, li{
 /* ----- CALENDAR ----- */
 .calendar{
 
-	padding: 10px;
-	margin:10;
+	/*padding: 10px;
+	margin:10;*/
 	background-color: #333333;
 }
 
@@ -18,7 +18,7 @@ div, ul, li{
 	text-align: center;
 	line-height: 0px;
 	font-size: 0px;
-	padding-bottom: 10px;
+	/*padding-bottom: 10px; */
 }
 
 .calendar-header:after{
@@ -29,7 +29,7 @@ div, ul, li{
 
 table{
 	width: 100%;
-	padding: 10px;
+	/* padding: 10px; */
 	color: #9d9d9d;
 }
 
@@ -171,3 +171,24 @@ td > span:active{
 	margin: auto;
 	display: block;
 }
+
+
+/* ----- Events Pg ----- */
+.container {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+/* ----- card-deck ----- */
+.card-deck {
+	margin-left: 0;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
