@@ -1,5 +1,30 @@
 <?php include "includes/header.php";?>
 <!-- START INDEX CONTENT  -->
+
+<!-- START POPUP SURVEY -->
+<div class="loginPopup">
+        <div class="formPopup" id="popupForm">
+            <div id="surveyForm" class="formContainer">
+                <p>What is your name?</p>
+                <input id="inputName" type="text" name="name" placeholder="My Name">
+                <p>How old are you?</p>
+                <input id="inputAge" type="number">
+
+
+                <div>
+                    <p>Pick an animal</p>
+                    <label><input id="inputAnimal" type="radio" name="choice" value="cat">Cat</label>
+
+                    <label><input id="inputAnimal" type="radio" name="choice" value="dog">Dog</label>
+                </div>
+
+                <button id="submitBtn" class="btn" onclick="closeForm()">Submit</button>
+                <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+            </div>
+        </div>
+    </div>
+<!-- END POPUP SURVEY QUESTINS -->
+
  <!-- START SECTION 1 -->
  <div id="home_top" class="row justify-content-center">
     <div class="col-sm-4">
