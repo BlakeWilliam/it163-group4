@@ -11,8 +11,7 @@
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="css/normalmode.css" id="theme">
-  <!-- REMOVED script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous" -->
-  <!-- Added -->
+  <link rel="stylesheet" href="css.survey.css"> 
   <link rel="stylesheet" href="css/calendar.css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -21,7 +20,7 @@
   <title>Emerald City UHC</title>
 </head>
 
-<body>
+<body onload="openForm()">
   <header>
     <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
