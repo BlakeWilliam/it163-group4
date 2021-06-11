@@ -4,11 +4,11 @@
   .openBtn {
     display: flex;
     justify-content: left;
-  }
+  } 
   .openButton {
     border: none;
-    border-radius: 5px;
-    background-color: #1c87c9;
+    border-radius: 8px;
+    background-color: #495255;
     color: white;
     padding: 14px 20px;
     cursor: pointer;
@@ -32,6 +32,13 @@
     max-width: 300px;
     padding: 20px;
     background-color: #fff;
+  }
+
+  .animal {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
   
   .formContainer .cancel {

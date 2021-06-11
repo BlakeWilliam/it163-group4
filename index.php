@@ -2,27 +2,39 @@
 <!-- START INDEX CONTENT  -->
 
 <!-- START POPUP SURVEY -->
-<div class="loginPopup">
-        <div class="formPopup" id="popupForm">
-            <div id="surveyForm" class="formContainer">
-                <p>What is your name?</p>
-                <input id="inputName" type="text" name="name" placeholder="My Name">
-                <p>How old are you?</p>
-                <input id="inputAge" type="number">
+  <div class="loginPopup">
+    <div class="formPopup" id="popupForm">
+      <div id="surveyForm" class="formContainer">
+        <p><strong>Welcome to Emerald City UHC</strong></p>
+        <p>Please tell us a little more about yourself</p>
+        
+          <p>What is your name?</p>
+          <input id="inputName" type="text" name="name" placeholder="My Name">
+          <p>How old are you?</p>
+          <input id="inputAge" type="number" placeholder="103">
+        
 
+        <div class="animal">
+          <p>Pick an animal</p>
+          <label><input id="inputAnimal" type="radio" name="choice" value="cat">Cat<img class="img-thumbnail" src="images/survey_tnail_cat.png" alt="cat image"></label>
 
-                <div>
-                    <p>Pick an animal</p>
-                    <label><input id="inputAnimal" type="radio" name="choice" value="cat">Cat</label>
+          <label><input id="inputAnimal" type="radio" name="choice" value="dog">Dog<img class="img-thumbnail" src="images/survey_tnail_dog.png" alt="dog image"></label>
+    
+          <label><input id="inputAnimal" type="radio" name="choice" value="dolphin">Dolphin<img class="img-thumbnail" src="images/survey_tnail_dolphin.png" atl="dolphin image"></label>
+          <br>
 
-                    <label><input id="inputAnimal" type="radio" name="choice" value="dog">Dog</label>
-                </div>
+          <label><input id="inputAnimal" type="radio" name="choice" value="tiger">Tiger<img class="img-thumbnail" src="images/survey_tnail_tiger.png" alt="tiger image"></label>
 
-                <button id="submitBtn" class="btn" onclick="closeForm()">Submit</button>
-                <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
-            </div>
+          <label><input id="inputAnimal" type="radio" name="choice" value="fox">Fox<img class="img-thumbnail" src="images/survey_tnail_fox.png" alt="fox image"></label>
+
+          <label><input id="inputAnimal" type="radio" name="choice" value="squirrel">Squirrel<img class="img-thumbnail" src="images/survey_tnail_squirrel.png" alt="squirrel image"></label>
         </div>
+
+        <button id="submitBtn" class="btn btn-success" onclick="closeForm()">Submit</button>
+        <button type="button" class="btn btn-danger" onclick="closeForm()">Close</button>
+      </div>
     </div>
+  </div>
 <!-- END POPUP SURVEY QUESTINS -->
 
  <!-- START SECTION 1 -->
