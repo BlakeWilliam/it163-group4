@@ -4,9 +4,6 @@ div, ul, li{
 
 /* ----- CALENDAR ----- */
 .calendar{
-
-	/*padding: 10px;
-	margin:10;*/
 	background-color: #333333;
 }
 
@@ -27,24 +24,22 @@ div, ul, li{
 	width: 100%;
 }   
 
-table{
+table {
 	width: 100%;
-	/* padding: 10px; */
 	color: #9d9d9d;
 }
 
-th{
+th {
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 16px;
 	color: #5b5b5b;
 }
 
-td{
+td {
 	font-weight: normal;
 	font-size: 12px;
 	text-align: center;
 }
-
 
 td > span{
 	display: inline-block;
@@ -58,26 +53,27 @@ td > span:hover{
 	 font-weight: bold; 
 }
 	
-td > span.active{
+ td > span.active{
 	border: 1px solid #98cd60;
-	border-radius: 30px;
+	border-radius: 30px!important;
 }
-td > span:active{
-	border: 2px solid #98cd60;
-	border-radius: 30px;
+
+.last {
+	display: block;
+	padding-bottom: 20px;
 }
 
 /* ----- AGENDA ----- */
 	
-.description{ 
+/* .description{ 
 	margin-top: 10px;
 	margin-left: 10px;
 	color: #fd9a4a;
 	font-size: 14px;
     overflow: visible;
-}
+} */
 
-.description	.description-content{
+/* .description	.description-content{
 	margin-top: 5px;
 }
 
@@ -126,9 +122,9 @@ td > span:active{
 						
 .description .description-content	ul.contact-list	li.contact .add-contact a:hover{
 	background-color: fadeout(#98cd60, 75%);
-}
+} */
 
-.hike-contact {
+/* .hike-contact {
 	list-style: none;
 	margin: 0;
     padding-left: 25px;
@@ -170,16 +166,47 @@ td > span:active{
 	height: 20px;
 	margin: auto;
 	display: block;
+} */
+
+
+.hike-card-title {
+	color: #1f83bd;
 }
 
-/* ----- card-deck ----- */
-.card-deck {
-	margin-left: 0;
+.btn-register {
+	min-width: 200px;
 }
 
-
-.row {
-	margin-right: 0px;
-	margin-left: 0px;
+.event-card {
+	border-left: none;
+	border-right: none;
 }
 
+div.event-date {
+	float: left;
+}
+
+div.event-time {
+	float: left;
+	margin-left: 100px;
+}
+
+div.event-name {
+	float: right;
+}
+
+.alt {
+	background-color: #d8d4d4;
+}
+
+@media only screen and (max-width:1112px) {
+	div.event-date, div.event-time, div.event-name {
+		float: none;
+		width: 100%;
+		align-content: center;
+	}
+
+	div.event-time {
+		margin: 0;
+	}
+}
