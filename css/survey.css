@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+  }
+  .openBtn {
+    display: flex;
+    justify-content: left;
+  } 
+  .openButton {
+    border: none;
+    border-radius: 8px;
+    background-color: #495255;
+    color: white;
+    padding: 14px 20px;
+    cursor: pointer;
+    /* position: fixed; */
+  }
+  .loginPopup {
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+  .formPopup {
+    display: none;
+    max-width: 400px;
+    position: fixed;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%, 5%);
+    border: 3px solid #999999;
+    border-radius: 13px;
+    z-index: 9;
+  }
+  .formContainer {
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 13px;
+  }
+
+  .animal {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 13px;
+  }
+  
+  .formContainer .cancel {
+    background-color: #cc0000;
+  }
+  .formContainer .btn:hover,
+  .openButton:hover {
+    opacity: 1;
+  }
