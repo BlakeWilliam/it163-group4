@@ -14,6 +14,7 @@
   <!-- REMOVED script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous" -->
   <!-- Added -->
   <link rel="stylesheet" href="css/calendar.css">
+  <link rel="stylesheet" href="css/survey.css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://use.typekit.net/omb7zgd.css">
