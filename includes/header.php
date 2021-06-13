@@ -21,7 +21,7 @@
   <title>Emerald City UHC</title>
 </head>
 
-<body>
+<body onload="openForm()">
   <header>
     <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
