@@ -11,7 +11,7 @@
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="css/normalmode.css" id="theme">
-  <!-- REMOVED script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous" -->
+  <script src="https://kit.fontawesome.com/902b4b52d9.js" crossorigin="anonymous"></script>
   <!-- Added -->
   <link rel="stylesheet" href="css/calendar.css">
   <link rel="stylesheet" href="css/survey.css">
