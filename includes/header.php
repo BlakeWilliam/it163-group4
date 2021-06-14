@@ -2,12 +2,14 @@
 
 <head>
   <!-- Required meta tags -->
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <meta name="google-site-verification" content="8ITOve7oNkpGDE83TFWvaHKObxSajQEiABcAbCXGmGw" />
+  <meta name="robots" content="index, follow">
+
   <!-- Bootstrap Layout CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="css/normalmode.css" id="theme">
@@ -19,7 +21,8 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://use.typekit.net/omb7zgd.css">
 
-  <title>Emerald City UHC</title>
+  <title>Emerald City UHC (2021): Urban Hiking Club in Seattle Washington</title>
+  <meta name="description" content="Emerald City UHC - Urban Hiking Club brings urban hikers together to enjoy Seattle's trails.">
 </head>
 
 <body onload="openForm()">
