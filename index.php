@@ -28,9 +28,10 @@
 
           <label><input id="inputAnimal" type="radio" name="choice" value="squirrel">Squirrel<img class="img-thumbnail" src="images/survey_tnail_squirrel.png" alt="squirrel image"></label>
         </div>
-
-        <button id="submitBtn" class="btn btn-success" onclick="closeForm()">Submit</button>
+        
         <button type="button" class="btn btn-danger" onclick="closeForm()">Close</button>
+        <button id="submitBtn" class="btn btn-success" onclick="closeForm()">Submit</button>
+        
       </div>
     </div>
   </div>
