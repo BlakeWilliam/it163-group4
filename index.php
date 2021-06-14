@@ -10,7 +10,7 @@
           <p>What is your name?</p>
           <input id="inputName" type="text" name="name" placeholder="My Name">
           <p>How old are you?</p>
-          <input id="inputAge" type="number" placeholder="103">
+          <input id="inputAge" type="number" placeholder="103"> 
         
 
         <div class="animal">
@@ -29,8 +29,10 @@
           <label><input id="inputAnimal" type="radio" name="choice" value="squirrel">Squirrel<img class="img-thumbnail" src="images/survey_tnail_squirrel.png" alt="squirrel image"></label>
         </div>
 
-        <button id="submitBtn" class="btn btn-success" onclick="closeForm()">Submit</button>
         <button type="button" class="btn btn-danger" onclick="closeForm()">Close</button>
+        
+        <button id="submitBtn" class="btn btn-success" onclick="closeForm()">Submit</button>
+        
       </div>
     </div>
   </div>
