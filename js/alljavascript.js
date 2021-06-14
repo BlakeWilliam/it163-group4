@@ -23,7 +23,8 @@ setInterval(function () {
 // preventOnload keeps the survey and winner popups on the index page.
 function preventOnload() {
   if (window.location.href === 'http://www.luannmarston.com/it163-group4/index.php') {
-
+  
+  //!!!!!!!NEED TO CHANGE HREF IF ON DIFFERENT SERVER!!!!!!!
     console.log('preventOnoad says we are on the index.php page.');
     console.log("page location is" + window.location.href);
 
