@@ -16,7 +16,7 @@
 </div>
 <div class="col-12">
     <div class="row">
-        <img class="img-fluid intro-pic" src="images/about-skyline.jpg">
+        <img class="img-fluid intro-pic" src="images/about-skyline.jpg" alt="skyline of Seattle">
     </div>
     <div class="row">
         <p class="justify-text intro">We want to make getting outside as accessible and fun for people from all sectors of life. The beauty in living in the Pacific Northwest is taking time to hike the urban enviornment yeilds amazing views, little known hidden gems, and
@@ -37,7 +37,7 @@
 <!-- Start Staff Cards -->
 <div class="row justify-content-center">
     <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Paskal.jpg" alt="Staff pic 1">
+        <img class="card-img-top" src="images/Staff_Paskal.jpg" alt="Paskal">
         <div class="card-body">
             <h5 class="card-title staff-lead">Paskal Waller</h5>
             <p class="card-text org-lead">Leads and Organizes: On The Go</p>
@@ -51,7 +51,7 @@
     </div>
 
     <div class="card " style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Marcia.jpg " alt="Staff pic 2">
+        <img class="card-img-top" src="images/Staff_Marcia.jpg " alt="Marcia">
         <div class="card-body">
             <h5 class="card-title staff-lead">Marcia Fernandez</h5>
             <p class="card-text org-lead">Leads and Orgnizes: LGTBQ</p>
@@ -66,7 +66,7 @@
     </div>
 
     <div class="card " style="width: 20rem; ">
-        <img class="card-img-top" src="images/Staff_Elli.jpg " alt="Staff pic 3">
+        <img class="card-img-top" src="images/Staff_Elli.jpg " alt="Elli">
         <div class="card-body">
             <h5 class="card-title staff-lead">Elli Oliver</h5>
             <p class="card-text org-lead">Leads and Organizes: Family Hikers</p>
@@ -82,7 +82,7 @@
     </div>
 
     <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Blake.jpg" alt="Staff pic">
+        <img class="card-img-top" src="images/Staff_Blake.jpg" alt="Blake">
         <div class="card-body">
             <h5 class="card-title staff-lead">Blake Agrade</h5>
             <p class="card-text org-lead">Leads and Organizes: 21 Plus</p>
@@ -99,7 +99,7 @@
     </div>
 
     <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Luann.jpg" alt="Staff pic 5">
+        <img class="card-img-top" src="images/Staff_Luann.jpg" alt="Luann">
         <div class="card-body">
             <h5 class="card-title staff-lead">Luann Marston</h5>
             <p class="card-text org-lead">Leads and Organizes: Puppers</p>
@@ -114,7 +114,7 @@
     </div>
 
     <div class="card " style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_AbbyGarden.jpg " alt="Staff pic 6">
+        <img class="card-img-top" src="images/Staff_AbbyGarden.jpg " alt="Abby">
         <div class="card-body">
             <h5 class="card-title staff-lead">Abby Marston</h5>
             <p class="card-text org-lead">Leads and Organizes: Puppers</p>

@@ -98,8 +98,8 @@
               <p class="card-text justify-text"> Human guide Luann and pupper guide Abby take you on an urban adventure that starts on the trail overlooking Union Bay and connects to the Burke-Gilman trail going north to Magnusson-Park and ending at the large off-leash dog park. One way walks are about 3 miles. We have varied options to returning to the meetup site, including a small group (with dogs that have higher energy needs) that does a return walk the whole way (for a total of 6 miles), a bus line directly back to Husky stadium via the #75 bus (departs every 30 minutes), and we coordinate a carpool system with a select few volunteers who will park at Magnusson before hand to take people and pups back to the meeting spot. Socialization and excersize for both humans and pups are our focus, while keeping the urban traffic exposure to a minimum while we hike.  </p>
               <p class="card-text">Guided By:</p>
               <div class="guide-container">
-                <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_blake.png">&nbsp&nbsp Luann</a>
-                <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_blake.png">&nbsp&nbsp Abby</a>
+                <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_luann.jpg" alt="Luann">&nbsp&nbsp Luann</a>
+                <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_abby.jpg" alt="Abby">&nbsp&nbsp Abby</a>
               </div>
               
             </div>
@@ -122,7 +122,7 @@
       <p class="card-text justify-text dark-text"> Take an easy stroll down Alki from Luna Park to the famous Statue of Liberty Plaza near the end of the popular Alki boardwalk. At 3.2 miles total roundtrip, with opprotunity to get a refreshment at one of the many restaurant/cafes near the Plaza, its a nice ramble along the water with breath-taking views of the Seattle Skyline and Space Needle across the water. Enjoy your conversations and company while taking your time to take in the amazing views and people watching opprotunity. Remember - we like to savor our time outside, we aren't in a rush to get anywhere.</p>
       <p class="card-text alt dark-text">Guided By:</p>
       <div class="alt">
-        <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_blake.png">&nbsp&nbsp Paskal</a>
+        <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_paskal.jpg" alt="Paskal">&nbsp&nbsp Paskal</a>
         
       </div>
       
@@ -146,7 +146,7 @@
       <p class="card-text justify-text"> This 6.4 mile urban hike combines the gorgeous views of Lake Union with the 2 stops to refresh with a drink. The hike starts a slightly more neighborhood feel with a journey through Eastlake and the waterfront houseboat hood, then across the University Bridge to where the Burke-Gilman merges with the Cheshiaud Lake Union Loop. We take a midway point break at <a href="http://fremontbrewing.com" target="_blank">Fremont Brewing Urban Beer Garden</a> to cool down with refreshing local brew before heading back down to South Lake Union. The 2nd half of the adventure continues over the Fremont bridge to the waterfront on Westlake completing the loop and ending the hike at <a href="https://www.whiteswanpublichouse.com/">The White Swan Public</a> House patio for food and drinks to cool down.</p>
       <p class="card-text">Guided By:</p>
       <div class="guide-container">
-        <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_blake.png">&nbsp&nbsp Blake</a>
+        <a href="about.php#team" class="btn btn-success middle"><img src="images/guide_blake.png" alt="Blake">&nbsp&nbsp Blake</a>
     </div>
       
     </div>
@@ -169,7 +169,7 @@
   <!--start Group Cards-->   
 <class class="row justify-content-center">
 <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="images/gp_onthemove.jpg" alt="on the go group pic">
+    <img class="card-img-top" src="images/gp_onthemove.jpg" alt="on the go group">
     <div class="card-body">
         <h5 class="card-title staff-lead">On The Go</h5>
         <p class="card-text">On the Go is geared for retiree's or those who enjoy hiking at a leisurely pace, we're in no rush. All of our hikes will have restrooms nearby either at a park or a friendly business.</p> 
@@ -182,7 +182,7 @@
 </div>
 
 <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="images/gp_family.jpg" alt="family group pic">
+    <img class="card-img-top" src="images/gp_family.jpg" alt="family group">
     <div class="card-body">
         <h5 class="card-title staff-lead">Family Hikers</h5>
         <p class="card-text">This group is all about sharing our love of the outdoors with our community of families with children.</p>
@@ -195,7 +195,7 @@
 </div>
 
 <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="images/gp_lgbtq.jpg" alt="lgbtq group pic">
+    <img class="card-img-top" src="images/gp_lgbtq.jpg" alt="lgbtq group">
     <div class="card-body">
         <h5 class="card-title staff-lead">LGBTQ Hikers</h5>
         <p class="card-text">Come One, Come All!</p>
@@ -209,7 +209,7 @@
 </div>
 
 <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="images/gp_singles.jpg" alt="21plus group pic">
+    <img class="card-img-top" src="images/gp_singles.jpg" alt="21plus group">
     <div class="card-body">
         <h5 class="card-title staff-lead">21+ Social Hikers</h5>
         <p class="card-text">Its Happy Hour!</p>
