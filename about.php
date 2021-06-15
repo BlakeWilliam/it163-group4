@@ -99,27 +99,33 @@
     </div>
 
     <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Abby.png" alt="Staff pic 5">
+        <img class="card-img-top" src="images/Staff_Luann.jpg" alt="Staff pic 5">
         <div class="card-body">
             <h5 class="card-title staff-lead">Luann Marston</h5>
             <p class="card-text org-lead">Leads and Organizes: Puppers</p>
-            <p class="card-text">Oat cake cupcake wafer. Chocolate bar soufflé chocolate bar topping donut. Chupa chups candy macaroon soufflé chocolate cake sweet cake.</p>
+            <p class="card-text">Luann is a proud mom of four fur-babies, two of which are pups. In 2014 Luann moved to the Seattle area in 2014 from the DC area and loves the slower, laid back life-style here. It was a huge, and welcomed change after the fast political life she had in DC.</p>
+            <p class="card-text">Luann has a passion for recreation, she even has a bachelors in Recreation and Leisure, and leading the Puppers hiking group makes perfect sense. If you have pup or you just like pups, and looking for a fun group of dogs (and their persons) to enjoy urban hiking in Seattle, Luann is the person your looking for. She makes sure all shorter hikes have an off-leash dog park nearby just encase you pup needs a little more exercise.</p>
 
         </div>
         <div class="card-footer">
             <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Luann," target="_blank" " class="btn btn-success middle">Contact Luann</a>
-            <a href="http://linkedin.com" target="_blank" " class="btn btn-success middle">LinkedIn</a>
+            <a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a>
         </div>
     </div>
 
     <div class="card " style="width: 20rem;">
-        <img class="card-img-top" src="images/Staff_Abby.png " alt="Staff pic 6">
+        <img class="card-img-top" src="images/Staff_AbbyGarden.jpg " alt="Staff pic 6">
         <div class="card-body">
             <h5 class="card-title staff-lead">Abby Marston</h5>
             <p class="card-text org-lead">Leads and Organizes: Puppers</p>
-            <p class="card-text">Oat cake cupcake wafer. Chocolate bar soufflé chocolate bar topping donut. Chupa chups candy macaroon soufflé chocolate cake sweet cake.</p>
+            <p class="card-text">Abby is a Belgium Malinois mix who was adopted from the Kitsap Humane Society and has lived in Washington her whole life and loves anything outdoor. She is the youngest of four fur-siblings yet the largest. Abby is passionate about urban farming and volunteers at least twice a week at Beacon Food Forest assisting the compost team and ends everyday snuggling with her persons on the couch.</p>
+            <p class="card-text">Abby leads dog-friendly groups around Seattle. She always looks for a dog-friendly restaurant, cafe or brewery at the end of her hikes just encase her fellow human hikes still have energy to socialize. </p>
         </div>
-        <div class="card-footer"><a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a></div>
+        <div class="card-footer">
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Abby," target="_blank" " class="btn btn-success middle">Contact Abby</a>
+            <a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a>
+        </div>
+    </div>
 
     </div>
 </div>
