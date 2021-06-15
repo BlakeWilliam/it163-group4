@@ -28,10 +28,10 @@
         <div>
           <h2 class="footer-heading text-left">Follow Us</h2>
           <ul id="footer-media" class="p-0 text-center">
-            <li><i class="fab fa-twitter-square size-media" style="color:#1da1f2;"></i></li>
-            <li><i class="fab fa-instagram-square size-media" style="color:#F56040;"></i></li>
-            <li><i class="fab fa-facebook-square size-media" style="color:#4267b2;"></i></li>
-            <li><i class="fab fa-meetup size-media" style="color:#e0393e;"></i></li>
+            <li><a href="http://linkedin.com" target="_blank"><i class="fab fa-twitter-square size-media" style="color:#1da1f2;"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram-square size-media" style="color:#F56040;"></i></a></li>
+            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square size-media" style="color:#4267b2;"></i></a></li>
+            <li><a href="https://www.meetup.com" target="_blank"><i class="fab fa-meetup size-media" style="color:#e0393e;"></i></a></li>
           </ul>
         </div>
       </div>
