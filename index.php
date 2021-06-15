@@ -10,7 +10,7 @@
           <p>What is your name?</p>
           <input id="inputName" type="text" name="name" placeholder="My Name">
           <p>How old are you?</p>
-          <input id="inputAge" type="number" placeholder="103">
+          <input id="inputAge" type="number" placeholder="My Age">
         
 
         <div class="animal">
