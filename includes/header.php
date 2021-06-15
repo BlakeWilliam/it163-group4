@@ -25,7 +25,7 @@
   <meta name="description" content="Emerald City UHC:Urban Hiking Club in Seattle Washington.">
 </head>
 
-<body onload="openForm()">
+<body onload="preventOnload()">
   <header>
     <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
