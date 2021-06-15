@@ -10,6 +10,7 @@
           Seattle WA, 98101
           <br>USA</p>
           <a href="tel:+12061231234">206.123.1234</a>
+          <br>
           <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi," target="_blank" " class="btn btn-success middle">Contact Us</a>
         </address>
       </div>
