@@ -26,7 +26,7 @@
 </head>
 
 <body onload="preventOnload()">
-  <header>
+  <header class="sticky-top">
     <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
 
@@ -61,6 +61,7 @@
             </div>
           </li>
           <button onclick="toggleTheme()" id='theme'>Change Theme</button>
+          
       </div>
       </ul>
       </div>
