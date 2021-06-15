@@ -112,7 +112,6 @@ hr {
 .end-spacer {
     padding-bottom: 40px;
 }
-
 /*Start animated links css */
 
 a.middle {
@@ -185,6 +184,10 @@ form {
 
 .alt {
 	background-color: #b1bfc5;
+}
+
+.active > a {
+    color: #e5e87f;
 }
 
 /*Start Block quote styling*/
