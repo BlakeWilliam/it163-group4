@@ -26,7 +26,7 @@
 </head>
 
 <body onload="preventOnload()">
-  <header class="sticky-top">
+  <header>
     <img src="images/headerimg.png" class="header-img">
     <h1>Emerald City UHC</h1>
 
