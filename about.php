@@ -45,8 +45,8 @@
                 <p class="card-text">Paskal invites you to join him on leisurely, pleasure walks on some of Seattle's easier walks. He tends to choose walks that have cafe or park nearby. The goal is to get outside and enjoy the company of friends. All are welcome,we are a walk and talk kind of group. A leisurely pace and warm affect are what we are about. </p>
             </div>
         <div class="card-footer">
-            <a href="#" class="btn btn-success middle">Contact Paskal</a>
-            <a href="#" class="btn btn-success middle">Facebook</a>
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Paskal," target="_blank" class="btn btn-success middle">Contact Paskal</a>
+            <a href="http://facebook.com" target="_blank" class="btn btn-success middle">Facebook</a>
         </div>
     </div>
 
@@ -60,8 +60,8 @@
             <p class="card-text">Whether you are an active member of the LGBTQ community, an ally, or someone looking for a sense of open belonging - Marcia invites you to join her for lively jaunts around Seattle that boasts little known, hidden lookouts.</p>
         </div>
         <div class="card-footer ">
-            <a href="#" class="btn btn-success middle">Contact Marcia</a>
-            <a href="#" class="btn btn-success middle">Instagram</a>
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Marcia," target="_blank" class="btn btn-success middle">Contact Marcia</a>
+            <a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a>
         </div>
     </div>
 
@@ -76,8 +76,8 @@
                 and the outdoors. All hikes are children friendly, and include child appropriate stops - restrooms, playgrounds, parks etc. </p>
         </div>
         <div class="card-footer ">
-            <a href="#" class="btn btn-success middle">Contact Elli</a>
-            <a href="#" class="btn btn-success middle">LinkedIn</a>
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Elli," target="_blank" " class="btn btn-success middle">Contact Elli</a>
+            <a href="http://linkedin.com" target="_blank" " class="btn btn-success middle">LinkedIn</a>
         </div>
     </div>
 
@@ -93,8 +93,8 @@
                 and arrange appropriate transporataion for after. </p>
         </div>
         <div class="card-footer">
-            <a href="# " class="btn btn-success middle">Contact Blake</a>
-            <a href="# " class="btn btn-success middle">Instagram</a>
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Blake," target="_blank"  " class="btn btn-success middle">Contact Blake</a>
+            <a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a>
         </div>
     </div>
 
@@ -107,8 +107,8 @@
 
         </div>
         <div class="card-footer">
-            <a href="#" class="btn btn-success middle">Contact Luann</a>
-            <a href="#" class="btn btn-success middle">LinkedIn</a>
+            <a href="mailto:test@example.com?subject=Message From EC UHC&body=Hi Luann," target="_blank" " class="btn btn-success middle">Contact Luann</a>
+            <a href="http://linkedin.com" target="_blank" " class="btn btn-success middle">LinkedIn</a>
         </div>
     </div>
 
@@ -119,7 +119,7 @@
             <p class="card-text org-lead">Leads and Organizes: Puppers</p>
             <p class="card-text">Oat cake cupcake wafer. Chocolate bar soufflé chocolate bar topping donut. Chupa chups candy macaroon soufflé chocolate cake sweet cake.</p>
         </div>
-        <div class="card-footer"><a href="# " class="btn btn-success middle">Instagram</a></div>
+        <div class="card-footer"><a href="http://instagram.com" target="_blank" class="btn btn-success middle">Instagram</a></div>
 
     </div>
 </div>
