@@ -22,9 +22,9 @@ setInterval(function () {
 
 // preventOnload keeps the survey and winner popups on the index page.
 function preventOnload() {
-  if (window.location.href === 'http://www.luannmarston.com/it163-group4/index.php') {  
-  //!!!!!!!NEED TO CHANGE HREF IF ON DIFFERENT SERVER!!!!!!!
-    console.log("page location is " + window.location.href + ". Is that the location you want?");
+
+  if (window.location.pathname === ('/it163-group4/index.php')) {
+    //!!!!!!!NEED TO CHANGE HREF IF ON DIFFERENT SERVER!!!!!!!
 
     //@ts-check
     // 1 in 10 Chance JS Modal popup
@@ -122,7 +122,13 @@ function preventOnload() {
 
     //END SURVEY
   }
+  else {
+    //!!!!!!!NEED TO CHANGE HREF IF ON DIFFERENT SERVER!!!!!!!
+    console.log("page location is " + window.location.href + ". In order for the pop ups to work on index, with window.locatio.pathname must = /it163-group4/index.php. Double check line 26.");
+  }
 }
+
+
 // Close Popup form w/ close btn
 function closeForm() {
   document.getElementById("popupForm").style.display = "none";
