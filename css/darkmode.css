@@ -88,7 +88,11 @@ p {
 a,
 .alt-text > h3,
 .alt-text > h2 {
-    color: #49792a;
+    color: #e5e87f;
+}
+
+.dark-text{
+    color: #1e2122;
 }
 
 a:hover {
@@ -189,6 +193,10 @@ form {
     height: auto;
     margin: 0 auto;
 } 
+
+.alt {
+	background-color: #5a6569;
+}
 
 /*Start Block quote styling*/
 /* center the blockquote in the page */

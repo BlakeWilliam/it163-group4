@@ -63,111 +63,6 @@ td > span:hover{
 	padding-bottom: 20px;
 }
 
-/* ----- AGENDA ----- */
-	
-/* .description{ 
-	margin-top: 10px;
-	margin-left: 10px;
-	color: #fd9a4a;
-	font-size: 14px;
-    overflow: visible;
-} */
-
-/* .description	.description-content{
-	margin-top: 5px;
-}
-
-.description	.description-content p {
-	font-size: 12px;
-	margin: 0;
-	color: #c5c5c5;
-}
-			
-.description	.description-content	ul.contact-list{
-	margin: 0;
-	margin-top: 10px;
-	padding: 0;
-}
-.description	.description-content	ul.contact-list	li.contact{
-	overflow: hidden;
-	display: block;
-	float: left;
-	margin: 0; padding: 0;
-	border: 2px solid fadeout(#98cd60, 75%);
-	border-radius: 60px;
-	width: 56px; height: 56px;
-	text-decoration: none;
-	text-align: center;
-	margin-right: 10px;
-	transition: all 0.2s;
-}
-.description	.description-content	ul.contact-list	li.contact	img{
-	width: 60px; height: 60px;
-}
-					
-.description	.description-content	ul.contact-list	li.contact:hover{
-	border: 2px solid #98cd60;          
-}
-					
-.description	.description-content	ul.contact-list	li.contact.add-contact{
-	color: #98cd60;
-	font-size: 20px;
-	line-height: 60px;
-}
-
-.description	.description-content	ul.contact-list	li.contact.add-contact a{
-	color: inherit;
-	text-decoration: none;
-}
-						
-.description .description-content	ul.contact-list	li.contact .add-contact a:hover{
-	background-color: fadeout(#98cd60, 75%);
-} */
-
-/* .hike-contact {
-	list-style: none;
-	margin: 0;
-    padding-left: 25px;
-	overflow: hidden;
-}
-
-.hike-contact > li {
-    float: left;
-	margin: 5px;
-	padding: 5px;
-    text-align: left;
-}
-
-.schedule-item{
-	display: block;
-	margin-bottom: 50px;
-	padding: 0;
-	clear: both;
-	min-height: 100px;
-  	overflow: visible;
-}
-	
-.schedule-item:last-child{
-	margin-bottom: 10px;
-    min-height: 30px;
-}
-	
-.time{
-	display: block;
-	float: left;
-	color: #cccccc;
-	text-align: center;
-	padding-bottom: 10px;
-	line-height: 25px;
-}	
-
-.time	span{
-	font-size: 24px;
-	height: 20px;
-	margin: auto;
-	display: block;
-} */
-
 
 .hike-card-title {
 	color: #1f83bd;
@@ -195,9 +90,6 @@ div.event-name {
 	float: right;
 }
 
-.alt {
-	background-color: #d8d4d4;
-}
 
 @media only screen and (max-width:1112px) {
 	div.event-date, div.event-time, div.event-name {
