@@ -1,0 +1,104 @@
+div, ul, li{
+	list-style-type: none;
+}
+
+/* ----- CALENDAR ----- */
+.calendar{
+	background-color: #333333;
+}
+
+.calendar-header{
+	background-color: #333333;
+	color: #a7a7a7;
+	border-bottom: 1px solid #484848;
+	margin: 0; padding: 0;
+	text-align: center;
+	line-height: 0px;
+	font-size: 0px;
+	/*padding-bottom: 10px; */
+}
+
+.calendar-header:after{
+	content: '';
+	display: inline-block;
+	width: 100%;
+}   
+
+table {
+	width: 100%;
+	color: #9d9d9d;
+}
+
+th {
+	font-weight: normal;
+	font-size: 16px;
+	color: #5b5b5b;
+}
+
+td {
+	font-weight: normal;
+	font-size: 12px;
+	text-align: center;
+}
+
+td > span{
+	display: inline-block;
+	text-align: center;
+	padding: 3px; margin: 0px;
+	width: 50px; height: 50px;
+	line-height: 20px;
+}
+	
+td > span:hover{
+	 font-weight: bold; 
+}
+	
+ td > span.active{
+	border: 1px solid #98cd60;
+	border-radius: 30px!important;
+}
+
+.last {
+	display: block;
+	padding-bottom: 20px;
+}
+
+
+.hike-card-title {
+	color: #1f83bd;
+}
+
+.btn-register {
+	min-width: 200px;
+}
+
+.event-card {
+	border-left: none;
+	border-right: none;
+}
+
+div.event-date {
+	float: left;
+}
+
+div.event-time {
+	float: left;
+	margin-left: 100px;
+}
+
+div.event-name {
+	float: right;
+}
+
+
+@media only screen and (max-width:1112px) {
+	div.event-date, div.event-time, div.event-name {
+		float: none;
+		width: 100%;
+		align-content: center;
+	}
+
+	div.event-time {
+		margin: 0;
+	}
+}
